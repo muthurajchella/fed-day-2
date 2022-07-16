@@ -1,0 +1,12 @@
+.container{
+    height: 20px;
+    width: 60%;
+    margin: auto;
+    border: solid 3px black;
+    padding: 5px;
+}
+
+.same{
+    color: brown;
+    font-family: cursive;
+}
