@@ -1,0 +1,13 @@
+.container{
+    height: 30px;
+    width: 80%;
+    margin-top: 5px;
+    margin-left: 100px;
+    border: solid 3px yellow;
+    padding: 5px;
+}
+.quick{
+    color: red;
+    font-family: cursive;
+    /* font-size: 50px; */
+}
