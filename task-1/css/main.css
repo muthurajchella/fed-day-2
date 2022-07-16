@@ -1,0 +1,170 @@
+.container{
+    height: 40px;
+    width: 100%;
+    margin: auto;
+    border: solid 2px black;
+    padding: 5px;
+
+
+}
+
+.header{
+    color: red;
+}
+
+
+.container1{
+    height: 250px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.introduction{
+    color: red;
+}
+
+.container2{
+    height: 300px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.about{
+    color: red;
+}
+
+.container3{
+    height: 300px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.collections{
+    color: red;
+}
+
+.container4{
+    height: 100px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.values{
+    color: red;
+}
+
+.container5{
+    height: 500px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.menu{
+    color: red;
+}
+
+.container6{
+    height: 200px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.rating{
+    color: red;
+}
+
+.container7{
+    height: 300px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.celebration{
+    color: red;
+}
+
+.container8{
+    height: 300px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.chefs{
+    color: red;
+}
+
+.container9{
+    height: 500px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.book{
+    color: red;
+}
+
+.container10{
+    height: 300px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.gallery{
+    color: red;
+}
+
+.container11{
+    height: 300px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.contact{
+    color: red;
+}
+
+.container12{
+    height: 100px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.footer{
+    color: red;
+}
+
+/* .container3{
+    height: 300px;
+    width: 100%;
+    margin-top: 5px;
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.about{
+    color: red;
+} */
